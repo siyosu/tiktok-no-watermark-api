@@ -105,7 +105,18 @@ function ParseVideoResult(DATA){
       };
 }
 
+/**
+ * @param {string} URL - The TikTok video or slideshow URL.
+ * @param {boolean} PARSE - Return the parsed data.
+ * @returns {object} TikTok video or slideshow data.
+ */
 async function TikTokNoWatermark(URL, PARSE = false){
+    if(typeof URL !== "string"){
+        throw new Error("URL must be a string!")
+    }
+    if(typeof PARSE !== "boolean"){
+        throw new Error("PARSE must be a boolean!")
+    }
     const video_id = await GetVideoId(URL)
     if(!video_id){
         throw {status: "fail", message: "Video id not found!"}
