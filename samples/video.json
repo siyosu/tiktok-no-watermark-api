@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "result": {
+    "type": "video",
+    "owner_name": "Coding in Flow",
+    "owner_username": "codinginflow",
+    "avatar": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/40432139d470f52d0404f05241479aea~c5_100x100.webp?x-expires=1689966000&x-signature=hEjXYPhvGkAZ0hmqPdSpB1HidWo%3D",
+    "details": {
+      "video_id": "7247900677815553307",
+      "video_url": "https://v16m-default.akamaized.net/54b3de41dbc1a40beed8303beaa8fedd/64b9e0f0/video/tos/useast2a/tos-useast2a-ve-0068-euttp/o4tAkfUChEyIoxSwtVttsBgAIJs5yznKhQF1AK/?a=0&ch=0&cr=0&dr=0&lr=all&cd=0%7C0%7C0%7C0&cv=1&br=494&bt=247&cs=0&ds=6&ft=E3X_A1t7vSrQ94iciuhCrGC~8fACImApOZ5es86BJE&mime_type=video_mp4&qs=0&rc=PGY7NTw1aDo5Z2dlMzhpZ0BpMzdlZTM6Zmp1bDMzZjczM0BeMS40NDQuXjUxYV81X2A1YSNqLi5ecjRfYV5gLS1kMWNzcw%3D%3D&l=2023072019350484352718C56B97363709&btag=e00080000",
+      "audio_url": "https://sf16-ies-music.tiktokcdn.com/obj/ies-music-euttp/7247900719955675930.mp3",
+      "cover": "https://p16-sign-useast2a.tiktokcdn.com/tos-useast2a-p-0037-euttp/c7733dd104ec483f8659ab20279b8b5a_1687533394~noop.image?x-expires=1689966000&x-signature=%2FpgP5V83f%2BnGJEbJaSZIskla%2B4w%3D&s=FEED&se=false&sh=&sc=cover&l=2023072019350484352718C56B97363709",
+      "width": 1080,
+      "height": 1920,
+      "data_size": 1209283,
+      "desc": "How to automatically add timestamps in Mongoose 💡 #learntocode #backend #backenddev #backenddeveloper #backenddevelopers #nodejs #nodejsdeveloper #mongodb #expressjs #typescript #javascript #webdev #webdeveloper ",
+      "total_comment": 21,
+      "total_likes": 488,
+      "total_views": 10603,
+      "total_share": 14
+    }
+  }
+}
